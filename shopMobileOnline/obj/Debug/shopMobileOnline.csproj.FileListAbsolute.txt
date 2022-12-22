@@ -1,0 +1,251 @@
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\csc.exe
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\csc.exe.config
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\csc.rsp
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\csi.exe
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\csi.rsp
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\System.AppContext.dll
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\vbc.exe
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\vbc.exe.config
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\vbc.rsp
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\shopMobileOnline.dll.config
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\shopMobileOnline.dll
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\shopMobileOnline.pdb
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.csprojResolveAssemblyReference.cache
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.dll
+C:\Users\Laptop T&T\documents\visual studio 2017\Projects\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.pdb
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\csc.exe
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\csc.exe.config
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\csc.rsp
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\csi.exe
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\csi.rsp
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\System.AppContext.dll
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\vbc.exe
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\vbc.exe.config
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\vbc.rsp
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\VBCSCompiler.exe
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\shopMobileOnline.dll.config
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\shopMobileOnline.dll
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\shopMobileOnline.pdb
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.csprojAssemblyReference.cache
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.csproj.CoreCompileInputs.cache
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.csproj.CopyComplete
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.dll
+D:\Document\ASP.NET\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.pdb
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\csc.exe
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\csc.exe.config
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\csc.rsp
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\csi.exe
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\csi.rsp
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\System.AppContext.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\vbc.exe
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\vbc.exe.config
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\vbc.rsp
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\VBCSCompiler.exe
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\shopMobileOnline.dll.config
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\shopMobileOnline.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\shopMobileOnline.pdb
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.csprojAssemblyReference.cache
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.csproj.CoreCompileInputs.cache
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.csproj.CopyComplete
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Project\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.pdb
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\csc.exe
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\csc.rsp
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\csi.exe
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\csi.rsp
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\vbc.exe
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\shopMobileOnline.dll.config
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\shopMobileOnline.dll
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\shopMobileOnline.pdb
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.dll
+C:\Users\Administrator\Downloads\Compressed\WebDoAn\shopMobileOnline\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.pdb
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\csc.exe
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\csc.exe.config
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\csc.rsp
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\csi.exe
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\csi.rsp
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\System.AppContext.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\vbc.exe
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\vbc.exe.config
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\vbc.rsp
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\VBCSCompiler.exe
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\shopMobileOnline.dll.config
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\shopMobileOnline.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\shopMobileOnline.pdb
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.csprojAssemblyReference.cache
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.csproj.CoreCompileInputs.cache
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.csproj.CopyComplete
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-3\Code\Final\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.pdb
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\csc.exe
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\csc.exe.config
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\csc.rsp
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\csi.exe
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\csi.rsp
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\System.AppContext.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\vbc.exe
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\vbc.exe.config
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\vbc.rsp
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\VBCSCompiler.exe
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\shopMobileOnline.dll.config
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\shopMobileOnline.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\shopMobileOnline.pdb
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.csprojAssemblyReference.cache
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.csproj.CoreCompileInputs.cache
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.csproj.CopyComplete
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.dll
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\obj\Debug\shopMobileOnline.pdb
+D:\DTU\CHUYÊN NGÀNH\CDIO-4\Code\shopMobileOnline\shopMobileOnline\bin\SRVTextToImage.dll
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\obj\Debug\shopMobileOnline.csproj.AssemblyReference.cache
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\obj\Debug\shopMobileOnline.csproj.CoreCompileInputs.cache
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\obj\Debug\shopMobileOnline.dll
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\obj\Debug\shopMobileOnline.pdb
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\csc.exe
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\csc.exe.config
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\csc.rsp
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\csi.exe
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\csi.rsp
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\System.AppContext.dll
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\vbc.exe
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\vbc.exe.config
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\vbc.rsp
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\shopMobileOnline.dll.config
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\shopMobileOnline.dll
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\shopMobileOnline.pdb
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abplo\Desktop\ASP\Shopping-Store\shopMobileOnline\obj\Debug\shopMobileOnline.csproj.CopyComplete
